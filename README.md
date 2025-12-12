@@ -2,4 +2,4 @@
 
 Mis competencias:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,c,java,flutter,dart,cmake,discord,gmail,instagram,apple,git,github,linux,md,obsidian,ocaml,py,twitter,vscode,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,c,java,flutter,dart,cmake,discord,gmail,instagram,apple,git,github,linux,md,obsidian,ocaml,py,twitter,vscode,windows,ubuntu,sublime,sketchup)](https://skillicons.dev)
