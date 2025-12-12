@@ -3,7 +3,7 @@
 <h2>Mis competencias:</h2>
 <div align="center">
   <a href="https://github.com/pedrogomezosorio">
-    <img src="https://skillicons.dev/icons?i=hhtml,c,java,discord,gmail,instagram,apple,git,github,linux](https://skillicons.dev" />
-    <img src="https://skillicons.dev/icons?i=md,obsidian,ocaml,py,twitter,vscode,windows,ubuntu,sublime,sketchup,notion)](https://skillicons.dev" />
+    <img src="https://skillicons.dev/icons?i=hhtml,c,java,discord,gmail,instagram,apple,git,github,linux,md](https://skillicons.dev" />
+    <img src="https://skillicons.dev/icons?i=md,obsidian,ocaml,py,twitter,vscode,windows,ubuntu,sublime,sketchup,notion,md)](https://skillicons.dev" />
   </a>
 </div>
