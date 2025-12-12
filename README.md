@@ -3,3 +3,4 @@
 <img width="300" height="168" alt="image"https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
 <img width="300" height="168" alt="image"https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 <img width="300" height="168" alt="image"https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
